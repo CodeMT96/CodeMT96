@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on Simple Games using .js
 - 📫 shoot me a mail if you need something!
 - 💬 I speak German and English
+- My Socials:
+- 🐦 https://twitter.com/MCode96
+- 📘 https://www.linkedin.com/in/markus-teumel-450002283/
 - :suspect:
